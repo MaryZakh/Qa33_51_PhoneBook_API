@@ -9,6 +9,6 @@ import lombok.ToString;
 @Setter
 @ToString
 @Builder
-public class DeleteByIdResponseDto {
+public class MessageDto {
     private String message;
 }
